@@ -1,1 +1,3 @@
-# sudo_programmingclub
+## 숙제 05/26 ~ 06/07 
+- 일반적으로 (jdoodle)[https://www.jdoodle.com/c-online-compiler]사이트에서 I/O 칸에 받은 파일을 복붙한 후 사용하는 것을 추천. 코딩도 jdoodle에서 하여 결과값을 얻어내면 됨.
+> - (문제 1번)[] : 문제파일에 있는 모든 수를 더하여 출력하는 프로그램을 만들고, 더한 값(결과 값)과 자신이 짠 코드를 내 갠톡으로 보내기.
